@@ -18,7 +18,7 @@ The focus was on configuring RIPv2, verifying route propagation, and testing con
 - Configured all relevant networks under the RIPv2 routing process  
 - Verified learned routes using `show ip route` (routes marked with “R”)  
 - Successfully tested end-to-end connectivity using **ping**
-- Successfully verified that protocol is implemented by ' show ip protocols '. 
+- Successfully verified that protocol is implemented by ` show ip protocols ` 
 ---
 
 ##  **Learning Outcomes**
